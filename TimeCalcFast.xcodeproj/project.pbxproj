@@ -300,6 +300,7 @@
 				F3C17AE81DCF55A0004C0A31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
